@@ -18,5 +18,6 @@ unset color_prompt force_color_prompt
 alias td3='tree -dL 3'
 alias esptool='esptool.py'
 alias ..='cd ..'
+alias cd..='cd ..'
 alias svim='sudo vim'
 alias update='sudo apt-get update && sudo apt-get -y upgrade'
